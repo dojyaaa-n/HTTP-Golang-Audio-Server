@@ -1,6 +1,6 @@
 [IN ENGLISH](https://github.com/dojyaaa-n/HTTP-Golang-Audio-Server/blob/main/README.md)
 
-# HTTP Golang Audio Server
+# HTTP аудио сервер на Golang
 
 ## Запуск
 
