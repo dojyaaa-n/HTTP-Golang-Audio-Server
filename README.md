@@ -1,4 +1,4 @@
-[НА РУССКОМ](github.com/dojyaaa-n/HTTP-Golamg-Audio-Server/README_ru.md)
+[НА РУССКОМ](https://github.com/dojyaaa-n/HTTP-Golang-Audio-Server/blob/main/README_ru.md)
 # HTTP Golang Audio Server
 
 ## Setup
