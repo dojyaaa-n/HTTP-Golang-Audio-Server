@@ -6,7 +6,7 @@
 go run main.go
 ```
 ## Connection
-You can just enter your local IP address `http://localhost:8080/stream` in your browser address bar or simply use any audio player capable of playing realtime audio streams over http connections. For example:
+You can just enter your local IP address `http://localhost:8080/stream` in your browser address bar and start listening or simply use any audio player capable of playing realtime audio streams over HTTP connections. For example:
 
 ### 1. Using `mpv` (Terminal):
 ```
