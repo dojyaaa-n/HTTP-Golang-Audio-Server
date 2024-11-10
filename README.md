@@ -1,5 +1,5 @@
 [НА РУССКОМ](https://github.com/dojyaaa-n/HTTP-Golang-Audio-Server/blob/main/README_ru.md)
-# HTTP Golang Audio Server
+# Audio transfer via HTTP server in Golang
 
 ## Setup
 ```
